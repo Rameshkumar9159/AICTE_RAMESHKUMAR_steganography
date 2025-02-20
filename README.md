@@ -26,5 +26,5 @@ Extracting Data
 To extract hidden data from an image:
 
 ./steganography extract <stego_bmp> <output_data_file>
-
+All about detailed in README.docx  
 
